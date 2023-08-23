@@ -1,0 +1,5 @@
+aplicativos utilizados:
+yarn
+node.js + express
+nodemon
+insomnia ou postman
